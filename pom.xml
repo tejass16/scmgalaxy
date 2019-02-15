@@ -40,7 +40,7 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
+        <id>deployment</id>
         <name>release softx</name>
         <url>http://107.22.124.55:8081/nexus/content/repositories/mphasis/</url>
     </repository>
